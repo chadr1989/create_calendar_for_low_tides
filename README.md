@@ -1,6 +1,6 @@
 # create_calendar_for_low_tides
-I wrote this code to build calendars on google calendar but it should also work on any platform that accepts the Microsoft outlook format for calendar.
-First, go to tidesandcurrents.noaa.gov and select the nearest coastal station
+I wrote this code to build calendars on google calendar but it should also work on any platform that accepts the Microsoft outlook format for calendar./n
+First, go to tidesandcurrents.noaa.gov and select the nearest coastal station/n
 then, click 'click here for annual published tide tables'
 select the appropriate year
 select .xml under the 'format' drop down menu
