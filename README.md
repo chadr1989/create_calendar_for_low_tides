@@ -9,5 +9,5 @@ save the provided Jupyter notebook in the same location that the .xml file was s
 download appropriate Python libraries if necessary<br>
 run the code<br>
 prompt will open to select the .xml file you just saved<br>
-a csv file named 'mry_tides_annual2021.csv' *or appripriate station,year* will be saved in the same destination folder that the .xml file and .ipynb file were saved<br>
+a csv file named 'Monterey_lowest_tides2021.csv' *or appripriate station,year* will be saved in the same destination folder that the .xml file and .ipynb file were saved<br>
 this .csv file is formatted the same way that Microsoft Outlook formats its calendar items and will import to google calendar
