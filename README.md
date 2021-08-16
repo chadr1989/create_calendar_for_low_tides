@@ -6,6 +6,7 @@ then, click 'click here for annual published tide tables'<br>
 select the appropriate year<br>
 select .xml under the 'format' drop down menu<br>
 save the provided Jupyter notebook in the same location that the .xml file was saved<br>
+download appropriate Python libraries if necessary<br>
 run the code<br>
 prompt will open to select the .xml file you just saved<br>
 a csv file named 'mry_tides_annual2021.csv' *or appripriate station,year* will be saved in the same destination folder that the .xml file and .ipynb file were saved<br>
